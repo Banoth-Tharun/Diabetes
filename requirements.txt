@@ -16,4 +16,6 @@ Jinja2==3.1.4
 pytest==8.3.2
 requests==2.32.3
 flwr==1.8.0
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
 
